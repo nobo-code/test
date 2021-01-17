@@ -6,7 +6,7 @@ import SignUp from './pages/SignUp'
 const Room = () => {
   return (
     <>
-      <h1>Room</h1>
+      <h1>ChatRoom</h1>
     </>
   )
 }
